@@ -2,7 +2,7 @@
   "name": "portafolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://juanca1406.github.io/Portafolio/",
+  "homepage": "https://crisgamox.github.io/MI_portafolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -11,6 +11,7 @@
     "@types/node": "^16.18.120",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
+    "D": "^1.0.0",
     "gh-pages": "^6.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
