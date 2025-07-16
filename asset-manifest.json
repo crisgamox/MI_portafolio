@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portafolio/static/css/main.061e2813.css",
+    "main.js": "/Portafolio/static/js/main.97865595.js",
+    "static/js/453.7d1ffe6d.chunk.js": "/Portafolio/static/js/453.7d1ffe6d.chunk.js",
+    "static/media/rm222-mind-24.jpg": "/Portafolio/static/media/rm222-mind-24.e803077c0abe0229bb7b.jpg",
+    "static/media/new113.jpg": "/Portafolio/static/media/new113.c6f6d3bb303d5a9e0eea.jpg",
+    "static/media/5723102.jpg": "/Portafolio/static/media/5723102.5be7dc93a42a99087a1f.jpg",
+    "static/media/basico.jpg": "/Portafolio/static/media/basico.562071f0a370196cd5a6.jpg",
+    "static/media/intermedio.jpg": "/Portafolio/static/media/intermedio.2311e8e6eee1121d344c.jpg",
+    "static/media/5594016.jpg": "/Portafolio/static/media/5594016.268bcc8e7348c9a90eec.jpg",
+    "static/media/aplicacion.jpg": "/Portafolio/static/media/aplicacion.580c008ca0469d4dd936.jpg",
+    "static/media/dashboard.png": "/Portafolio/static/media/dashboard.ddd666dce76e0e9287ce.png",
+    "index.html": "/Portafolio/index.html",
+    "main.061e2813.css.map": "/Portafolio/static/css/main.061e2813.css.map",
+    "main.97865595.js.map": "/Portafolio/static/js/main.97865595.js.map",
+    "453.7d1ffe6d.chunk.js.map": "/Portafolio/static/js/453.7d1ffe6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.061e2813.css",
+    "static/js/main.97865595.js"
+  ]
+}
